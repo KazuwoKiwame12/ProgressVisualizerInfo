@@ -1,2 +1,2 @@
-# ProgressVisualizerInfo
-ProgressVisuakizer説明用のRepository
+# 目標の達成度を可視化して、日常生活における目標達成のhelpを行うアプリ
+Apple Storeへのリリースを向けて更新中
